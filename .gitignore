@@ -22,3 +22,7 @@
 
 # Ignore editor config files
 .vscode
+
+# Ignore example binaries
+/scheduling/consumer/consumer
+/scheduling/producer/producer
